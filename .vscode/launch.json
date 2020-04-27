@@ -13,7 +13,7 @@
       ],
       "program": "${workspaceFolder}/buggy-script.js",
       "args": [
-        "./project-outline.txt",
+        "./source.txt",
         "./"
       ] /* put the arguments here in separate string elements! */
     }
